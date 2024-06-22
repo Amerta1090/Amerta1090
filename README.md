@@ -6,7 +6,6 @@ I am passionate about exploring the intersections of Artificial Intelligence (AI
 - 🔭 I’m currently working on enhancing my skills in AI algorithms and IoT applications.
 - 🌱 I’m currently learning more about Web Development frameworks and cloud computing.
 - 👯 I’m looking to collaborate on projects involving AI applications, IoT devices, or innovative web solutions.
-- 📫 How to reach me: [Instagram](https://www.instagram.com/amrta_708)
 
 ## Skills
 - **Programming Languages:** Python, JavaScript
@@ -22,9 +21,9 @@ I am passionate about exploring the intersections of Artificial Intelligence (AI
 - Web Development
 
 ## Contact Me
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
+- LinkedIn: [Abdul Majid]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/abdulmajidr708/))
 - Instagram: [amrta_708](https://www.instagram.com/amrta_708)
-- Email: your.email@example.com
+- Email: abdulmajidr708@gmail.com
 
 Feel free to connect with me to discuss tech, projects, or just to say hi! 😊
 
