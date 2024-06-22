@@ -21,7 +21,7 @@ I am passionate about exploring the intersections of Artificial Intelligence (AI
 - Web Development
 
 ## Contact Me
-- LinkedIn: [Abdul Majid]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/abdulmajidr708/))
+- LinkedIn: [Abdul Majid](https://www.linkedin.com/in/abdulmajidr708/)
 - Instagram: [amrta_708](https://www.instagram.com/amrta_708)
 - Email: abdulmajidr708@gmail.com
 
