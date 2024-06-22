@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Abdul Majid! 👋
 
 ## About Me
 I am passionate about exploring the intersections of Artificial Intelligence (AI), Internet of Things (IoT), and Web Development. My journey in technology has been driven by a curiosity to create impactful solutions using cutting-edge technologies.
