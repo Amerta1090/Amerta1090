@@ -1,74 +1,88 @@
-# 🎮 Welcome to the World of Abdul Majid! 👾
+<h1 align="center">
+  ⚡ ABDUL MAJID 🧠
+</h1>
 
-## 🚀 About Me
-
-Welcome to my digital playground! I’m Abdul Majid, an aspiring tech wizard and self-proclaimed AI, IoT, and Web Development enthusiast. My quest? To conquer the realms of technology one line of code at a time... or at least make it look like I know what I’m doing. 💻
-
-### My Stats:
-- **Level**: 42 (Just kidding, but close enough)
-- **Health**: 100% (Still functioning on caffeine and willpower)
-- **XP**: 2,500 / 5,000 (Machine learning XP is grinding hard)
-- **Mana**: 200 / 200 (Google is my magical source of power)
-  
----
-
-## 🛠 Skills - **Current Build**
-
-### **⚔️ Programming Languages**  
-_Just enough to slay bugs and look like a pro._  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### **🧙‍♂️ AI & Machine Learning**  
-_Tapping into my AI magic to conjure predictions (and sometimes failures)._  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-### **🔧 IoT - The Tech Alchemy**  
-_Making devices talk to each other like magical beings._  
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-
-### **🖥️ Web Development**  
-_Because every wizard needs a magical portal (aka portfolio)._  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### **🏰 Databases - Dungeon Master**  
-_Filling the treasure chest with SQL, NoSQL, and data of all kinds._  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### **🛡️ Tools & IDEs - Your Ultimate Arsenal**  
-_Because no hero goes to battle without their tools._  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
+<p align="center">
+  <img src="img/profile.png" width="700" alt="Abdul Majid RPG Profile">
+</p>
 
 ---
 
-## 💡 *"Quest Log"*
+## 🧙‍♂️ Character Sheet
 
-- 🌟 Mastering AI (almost)  
-- 🌟 Building IoT devices that break *at least* 10 times before they work  
-- 🌟 Designing web pages that are *definitely not* just basic templates  
-- 🌟 Automating boring tasks with Google App Script to save my energy for more important things
-
----
-
-## 🎯 Goals & Progress
-
-- **Deploy something on the cloud without breaking it**: ⏳ In Progress (35%)
-- **Level up Machine Learning skills**: ⚔️ Battle ongoing (50%)
-- **Complete at least one full-stack project**: 🏁 Nearly there (75%)
+| Stat       | Value              |
+|------------|--------------------|
+| **Level**  | 27 (still grinding) |
+| **XP**     | ███████░░░ 70%     |
+| **HP**     | ██████░░░░ 60%     |
+| **Mana**   | ██████████ 100%    |
+| **Class**  | ⚙️ AI Mage / IoT Engineer / Frontend Spellcaster |
 
 ---
 
-## 📫 Contact Me - **Join My Guild**
+## 🛠️ Skills & Builds
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdul%20Majid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulmajidr708/)
-- [![Instagram](https://img.shields.io/badge/Instagram-amrta__708-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amrta_708)
-- 📧 **Email**: [abdulmajidr708@gmail.com](mailto:abdulmajidr708@gmail.com)
+### 🧠 AI & Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+### 🔌 Internet of Things
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+
+### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
-## 🎮 Fun Fact: The Boss Level
+## 🎯 Active Quests
 
-I spend 90% of my time Googling, 5% pretending to know what I’m doing, and the remaining 5% trying to fix what broke while I was pretending. Come join the chaos, and together, we might actually finish a project! 🕹️✨
+- [x] Learn to tame PyTorch dragons
+- [x] Build IoT projects that actually boot 🥲
+- [ ] Contribute to OSS without breaking main branch
+- [ ] Survive full-stack deployment without crying
 
 ---
 
-Feel free to explore my repos, or don't. Either way, I'm probably in the middle of re-writing everything. 😄
+## 🏆 Achievements Unlocked
+
+![Badge](https://img.shields.io/badge/-Pushing%20To%20Main-orange?style=for-the-badge)
+![Badge](https://img.shields.io/badge/-Hello%20World-grey?style=for-the-badge)
+![Badge](https://img.shields.io/badge/-Cloud%20Deploy-blue?style=for-the-badge)
+
+> “Achievement: Survived 3 hours debugging a missing semicolon.”
+
+---
+
+## 🕹️ Inventory
+
+### Tools & IDEs
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+---
+
+## 📡 Join My Guild
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdul%20Majid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulmajidr708/)
+[![Instagram](https://img.shields.io/badge/Instagram-amrta__708-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amrta_708)
+📧 **Email**: [abdulmajidr708@gmail.com](mailto:abdulmajidr708@gmail.com)
+
+---
+
+## 💬 Fun Fact (Rage Edition)
+
+> I once lost 3 hours debugging a bug that was fixed by restarting VS Code.  
+> My machine learning model performed worse *after* tuning it.  
+> My IoT project worked perfectly... but only when no one was watching.  
+> Life is a loop. So is my code.
+
+---
+
+🕹️ *Explore my repositories if you dare. There's chaos, caffeine, and some really cursed solutions.*
+
