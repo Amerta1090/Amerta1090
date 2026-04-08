@@ -67,6 +67,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdul%20Majid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulmajidr708/)
 [![Instagram](https://img.shields.io/badge/Instagram-amrta__708-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amrta_708)
+
 **Email**: [abdulmajidr708@gmail.com](mailto:abdulmajidr708@gmail.com)
 
 ---
