@@ -1,74 +1,83 @@
-<h1 align="center">
-   ABDUL MAJID 
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=1a1b27&height=150&section=header&text=ABDUL%20MAJID&fontSize=70&fontColor=70a5fd&animation=fadeIn" alt="Header" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=435&lines=%2F%2F+INIT_NEURAL_INTERFACE;%2F%2F+IOT_NODE_CONNECTING;%2F%2F+COMPILING_SPELL_BOOK" alt="Typing SVG" />
+</p>
 
 ---
 
-## Character Sheet
-
-| Stat       | Value              |
-|------------|--------------------|
-| **Level**  | 27 (still grinding) |
-| **XP**     | ███████░░░ 70%     |
-| **HP**     | ██████░░░░ 60%     |
-| **Mana**   | ██████████ 100%    |
-| **Class**  | ⚙️ AI Mage / IoT Engineer / Frontend Spellcaster |
+<pre align="center">
+┌────────────────────────────────────────────────────────────┐
+│  <b>SYSTEM_ID:</b> 708                                            │
+│  <b>ROLE:</b> AI MAGE // IOT ENGINEER // FRONTEND SPELLCASTER     │
+│  <b>LOG:</b> Transmuting code into digital artifacts.             │
+└────────────────────────────────────────────────────────────┘
+</pre>
 
 ---
 
-## Skills & Builds
-
-### AI & Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-### Internet of Things
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-
-### Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+> **CHARACTER_SHEET_V2.0**
+>
+> | ATTRIBUTE | TELEMETRY |
+> | :--- | :--- |
+> | **Level** | `27 [EXP_GRINDING]` |
+> | **Energy (HP)** | `[######----] 60%` |
+> | **Mana** | `[##########] 100%` |
 
 ---
 
-## Active Quests
+### 🛠️ SKILL_MATRIX
 
-- [x] Learn to tame PyTorch dragons
-- [x] Build IoT projects that actually boot 🥲
-- [ ] Contribute to OSS without breaking main branch
-- [ ] Survive full-stack deployment without crying
+**`[ AETHER_NET: AI/ML ]`**
+> `TensorFlow` • `PyTorch` • `Scikit-Learn` • `FastAPI`
 
----
+**`[ MATERIAL_LINK: IOT ]`**
+> `Arduino` • `Raspberry Pi` • `C++` • `Circuitry`
 
-## Achievements Unlocked
-
-![Badge](https://img.shields.io/badge/-Pushing%20To%20Main-orange?style=for-the-badge)
-![Badge](https://img.shields.io/badge/-Hello%20World-grey?style=for-the-badge)
-![Badge](https://img.shields.io/badge/-Cloud%20Deploy-blue?style=for-the-badge)
-
-> “Achievement: Survived 3 hours debugging a missing semicolon.”
+**`[ ILLUSION_SPELLS: WEB ]`**
+> `React` • `Node.js` • `Tailwind` • `Git`
 
 ---
 
-## Inventory
+### ACTIVE_QUESTS
 
-### Tools & IDEs
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
----
-
-## Join My Guild
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdul%20Majid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulmajidr708/)
-[![Instagram](https://img.shields.io/badge/Instagram-amrta__708-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amrta_708)
-
-**Email**: [abdulmajidr708@gmail.com](mailto:abdulmajidr708@gmail.com)
+- [x] **MODERN_ALCHEMIST:** Taming PyTorch dragons.
+- [x] **HARDWARE_WHISPERER:** Making silicon speak.
+- [ ] **VOID_CONTRIBUTOR:** Ghosting the OSS main branch.
+- [ ] **DEPLOYMENT_SURVIVOR:** 0 downtime deployment.
 
 ---
 
+### 🏆 MILESTONES
+
+> **`LOG_ENTRY: SEMICOLON_INCIDENT`**
+>
+> *"Survived a 3-hour descent into a single missing semicolon. The code finally compiled at 3 AM."*
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PUSH_TO_MAIN-E9861E?style=for-the-badge&logo=github&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/HELLO_WORLD-333333?style=for-the-badge" />
+  
+  <img src="https://img.shields.io/badge/CLOUD_DEPLOY-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+</p>
+
+---
+
+<h2 align="center">NETWORK_UPLINK</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdulmajidr708/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://www.instagram.com/amrta__708">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <code>TRANSMISSION_PROTOCOL: abdulmajidr708@gmail.com</code>
+</p>
